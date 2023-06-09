@@ -47,6 +47,17 @@
     font-family: 'kanzakibold';
 }
 
+#header p {
+    font-family: 'EquitanSans-Black';
+    font-size: 35px;
+    color: #040404;
+}
+
+#header mark {
+    background-color:rgb(244,237,229);
+    color: #040404;
+}
+
 #navbar ul{
     list-style-type: none;
 }
